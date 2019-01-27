@@ -1,0 +1,3 @@
+rootProject.name = 'ZBLOG_RN'
+
+include ':app'
